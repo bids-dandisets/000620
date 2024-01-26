@@ -27,7 +27,7 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 5645534486063
+  numberOfBytes: 5670310433515
   numberOfFiles: 97
   numberOfSubjects: 2
   schemaKey: AssetsSummary
@@ -93,7 +93,7 @@ contributor:
   - dcite:FundingAcquisition
   schemaKey: Person
 dateCreated: '2023-08-09T18:02:50.024110+00:00'
-datePublished: '2024-01-24T14:36:28.662042+00:00'
+datePublished: '2024-01-26T13:36:10.116536+00:00'
 description: 'Dataset for macaque multi-object working memory task with frontal cortex
   neurophysiology recordings.
 
@@ -111,13 +111,13 @@ name: Multi-object working memory in macaque frontal cortex (N. Watters, J. Gabe
   M. Jazayeri)
 protocol: []
 publishedBy:
-  endDate: '2024-01-24T14:36:28.662042+00:00'
-  id: urn:uuid:333cc896-282e-4ddb-baa3-81c030839400
+  endDate: '2024-01-26T13:36:10.116536+00:00'
+  id: urn:uuid:0593d6d5-5924-4685-ac05-5bc1a9934399
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-01-24T14:36:28.662042+00:00'
+  startDate: '2024-01-26T13:36:10.116536+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:75bde9b9-a52c-4a7c-868c-c4dbf1e47ff2
+  - id: urn:uuid:68c38ffc-bc55-48eb-b5e9-07a207ae18c9
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
