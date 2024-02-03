@@ -17,18 +17,18 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
-  - name: behavioral technique
-    schemaKey: MeasurementTechniqueType
   - name: surgical technique
-    schemaKey: MeasurementTechniqueType
-  - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 5670310433515
-  numberOfFiles: 97
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 5575936856721
+  numberOfFiles: 96
   numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
@@ -36,11 +36,11 @@ assetsSummary:
     name: Macaca mulatta - Rhesus monkey
     schemaKey: SpeciesType
   variableMeasured:
+  - ElectricalSeries
   - ElectrodeGroup
+  - SpatialSeries
   - Units
   - ProcessingModule
-  - SpatialSeries
-  - ElectricalSeries
 citation: Watters, Nick; Gabel, John; Baker, Cody; Jazayeri, Mehrdad (2024) Multi-object
   working memory in macaque frontal cortex (N. Watters, J. Gabel, M. Jazayeri) (Version
   draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
@@ -93,7 +93,7 @@ contributor:
   - dcite:FundingAcquisition
   schemaKey: Person
 dateCreated: '2023-08-09T18:02:50.024110+00:00'
-datePublished: '2024-01-26T13:36:10.116536+00:00'
+datePublished: '2024-02-03T23:07:58.162398+00:00'
 description: 'Dataset for macaque multi-object working memory task with frontal cortex
   neurophysiology recordings.
 
@@ -111,13 +111,13 @@ name: Multi-object working memory in macaque frontal cortex (N. Watters, J. Gabe
   M. Jazayeri)
 protocol: []
 publishedBy:
-  endDate: '2024-01-26T13:36:10.116536+00:00'
-  id: urn:uuid:0593d6d5-5924-4685-ac05-5bc1a9934399
+  endDate: '2024-02-03T23:07:58.162398+00:00'
+  id: urn:uuid:b9fe9389-7a24-4fb6-8c47-f5f5fd69d31e
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-01-26T13:36:10.116536+00:00'
+  startDate: '2024-02-03T23:07:58.162398+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:68c38ffc-bc55-48eb-b5e9-07a207ae18c9
+  - id: urn:uuid:7cefa738-26ce-4396-a1d2-eabeb1051719
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
