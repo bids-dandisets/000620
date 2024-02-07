@@ -27,8 +27,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 5576567350659
-  numberOfFiles: 99
+  numberOfBytes: 5588981005642
+  numberOfFiles: 143
   numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
@@ -93,7 +93,7 @@ contributor:
   - dcite:FundingAcquisition
   schemaKey: Person
 dateCreated: '2023-08-09T18:02:50.024110+00:00'
-datePublished: '2024-02-07T14:24:09.007585+00:00'
+datePublished: '2024-02-07T16:02:31.460874+00:00'
 description: 'Dataset for macaque multi-object working memory task with frontal cortex
   neurophysiology recordings.
 
@@ -111,13 +111,13 @@ name: Multi-object working memory in macaque frontal cortex (N. Watters, J. Gabe
   M. Jazayeri)
 protocol: []
 publishedBy:
-  endDate: '2024-02-07T14:24:09.007585+00:00'
-  id: urn:uuid:c0483539-7228-47e8-b55d-146f58eac30b
+  endDate: '2024-02-07T16:02:31.460874+00:00'
+  id: urn:uuid:e4eaacc4-6bc7-4b39-a8f6-03ef8db5a1e0
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-02-07T14:24:09.007585+00:00'
+  startDate: '2024-02-07T16:02:31.460874+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:db6ad039-71e4-44a0-a87f-e5bc4ad4fffe
+  - id: urn:uuid:187c6a47-43c8-437f-bb09-39ed241223e5
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
