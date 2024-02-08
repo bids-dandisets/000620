@@ -21,14 +21,14 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  - name: spike sorting technique
-    schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 5597987134140
-  numberOfFiles: 192
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 5575945868441
+  numberOfFiles: 144
   numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
@@ -39,8 +39,8 @@ assetsSummary:
   - ElectricalSeries
   - ElectrodeGroup
   - SpatialSeries
-  - Units
   - ProcessingModule
+  - Units
 citation: Watters, Nick; Gabel, John; Baker, Cody; Jazayeri, Mehrdad (2024) Multi-object
   working memory in macaque frontal cortex (N. Watters, J. Gabel, M. Jazayeri) (Version
   draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
@@ -93,7 +93,7 @@ contributor:
   - dcite:FundingAcquisition
   schemaKey: Person
 dateCreated: '2023-08-09T18:02:50.024110+00:00'
-datePublished: '2024-02-07T16:14:31.380144+00:00'
+datePublished: '2024-02-08T00:19:51.743246+00:00'
 description: 'Dataset for macaque multi-object working memory task with frontal cortex
   neurophysiology recordings.
 
@@ -111,13 +111,13 @@ name: Multi-object working memory in macaque frontal cortex (N. Watters, J. Gabe
   M. Jazayeri)
 protocol: []
 publishedBy:
-  endDate: '2024-02-07T16:14:31.380144+00:00'
-  id: urn:uuid:34379672-ee37-447a-aec9-e004358fac8d
+  endDate: '2024-02-08T00:19:51.743246+00:00'
+  id: urn:uuid:da01776f-0e5d-42db-8073-25494df51478
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-02-07T16:14:31.380144+00:00'
+  startDate: '2024-02-08T00:19:51.743246+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:f06309b5-7bf1-49fd-aed9-b51ab7aefe36
+  - id: urn:uuid:41f8d697-78a3-483c-a84d-2c74886cb37d
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
